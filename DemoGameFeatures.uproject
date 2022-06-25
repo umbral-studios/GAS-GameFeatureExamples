@@ -41,10 +41,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "InteractableObjects",
-			"Enabled": true
 		}
 	]
 }
