@@ -45,6 +45,10 @@
 		{
 			"Name": "InteractableObjects",
 			"Enabled": true
+		},
+		{
+			"Name": "Equipment",
+			"Enabled": true
 		}
 	]
 }
